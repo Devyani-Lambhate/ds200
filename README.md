@@ -3,7 +3,7 @@
 ### Positive cases v/s age
 
 This plot shows the number of coronavirus positive people from different age groups. 
-![Image](histogram.png)
+![Image](https://github.com/Devyani-Lambhate/ds200/blob/gh-pages/histogram.png)
 
 
 ### Age distribution of corono positive cases
