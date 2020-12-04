@@ -1,6 +1,5 @@
 ## Coronavirus cases in Indore city from 02-04-2020 to 28-06-2020
 
-
 ### Positive cases v/s age
 
 This plot shows the number of coronavirus positive people from different age groups. 
