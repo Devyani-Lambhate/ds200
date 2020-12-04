@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Coronavirus cases in Indore city from 02-04-2020 to 28-06-2020
 
-You can use the [editor on GitHub](https://github.com/Devyani-Lambhate/ds200/edit/gh-pages/README.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Positive cases v/s age
 
-### Markdown
+This plot shows the number of coronavirus positive people from different age groups. 
+![Image](src)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+### Age distribution of corono positive cases
 
-# Header 1
-## Header 2
-### Header 3
+This plot shows the proper statistics of the age distribution of people affected by coronavirus. 
+![Image](src)
 
-- Bulleted
-- List
+### Death rate v/s age
 
-1. Numbered
-2. List
+This plot shows the fatality rate/ death rate with respect to the age. From the plot we can see that the older people are at greater risk.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Devyani-Lambhate/ds200/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+![Image](src)
